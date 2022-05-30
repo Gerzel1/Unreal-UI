@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Modular_UI",
+	"Description": "Modular UI created to quickly make UI widgets",
+	"Category": "Other",
+	"CreatedBy": "Brandon Gerzel",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Modular_UI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
